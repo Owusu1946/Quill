@@ -117,9 +117,9 @@ const Dashboard = ({subscriptionPlan}: PageProps) => {
         <div className='mt-16 flex flex-col items-center gap-2'>
           <Ghost className='h-8 w-8 text-zinc-800' />
           <h3 className='font-semibold text-xl'>
-            Pretty empty around here
+            There&apos;s Pretty much nothing around here!
           </h3>
-          <p>Let&apos;s upload your first PDF.</p>
+          <p>Let&apos;s upload your first PDF Document.</p>
         </div>
       )}
     </main>
